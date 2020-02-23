@@ -4,3 +4,5 @@ Application for loading data from xls file into database for further inserting/u
 PostgreSQL
 # technology
 Spring MVC
+# IDE
+Spring Tool Suite 
